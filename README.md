@@ -10,7 +10,7 @@ API参考官方C++版本的接口文档https://xtp.zts.com.cn/home
 
 ##事项说明:
 
-1.当前xtp的api的python封装支持win7系统、win10系统和Linux系统，在bin目录下有Linux文件夹下存放Linux下python2和python3的封装库，Windows文件夹下还分别包括32位和64位下的python2和python3的封装库。test文件夹下包含行情和交易的测试脚本。
+1.当前xtp的api的python封装支持windows系统和Linux系统，在bin目录下有Linux文件夹下存放Linux下python2和python3的封装库，Windows文件夹下还分别包括32位和64位下的python2和python3的封装库。test文件夹下包含行情和交易的测试脚本。
 
 2.当前bin目录下编译时用的python2的版本为python2.7.15，python3用的版本的python3.6.5，在Windows下发现如果python的版本不对应时会导致调用python封装库会失败，如果使用当前的封装库请注意python的版本是否一致。
 
